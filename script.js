@@ -1,4 +1,3 @@
-
         // Weather icons mapping
         const weatherIcons = {
             'clear': '☀️',
